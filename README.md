@@ -1,13 +1,11 @@
-# Attention Markets
+# Attention Markets — Live on Base
 
-Deflationary bounty mini-app on Base
+Deflationary bounty mini-app  
+Burn USDC → win $ATTENTION via Farcaster frames  
+40-day transfer lock · supply only shrinks  
 
-→ Creators burn USDC → win attention  
-→ Users earn $ATTENTION (locked 40 days)  
-→ Supply only shrinks forever  
-
-Live app: https://shelter-ate-606.app.ohara.ai  
-Tokenomics → [TOKENOMICS.md](TOKENOMICS.md)  
-Referral leaderboard → [REFERRAL_WARS.md](REFERRAL_WARS.md)
+**Live App**: https://shelter-ate-606.app.ohara.ai  
+**Tokenomics**: [TOKENOMICS.md](TOKENOMICS.md)  
+**Referral Wars**: 5% pool · top 100 split 50M $ATN at unlock  
 
 Built on Base 2025
